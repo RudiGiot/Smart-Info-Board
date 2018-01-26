@@ -1,0 +1,19 @@
+<scheduling start="07:00" end="23:00">
+    <period start="02:00" end="23:59">
+        <widget name="Cinema" probability="11" duration="30" />
+        <widget name="Clock" probability="1" duration="30" />
+        <widget name="SNCB" probability="10" duration="30" />
+        <widget name="STIB" probability="10" duration="30" />
+        <widget name="Calendar" probability="10" duration="30" />
+    </period>
+	<period start="00:00" end="01:59">
+        <widget name="Video" probability="1" duration="162" />
+        <widget name="ActualWeather" probability="1" duration="20" />
+        <widget name="WeatherForecast" probability="1" duration="20" />
+        <widget name="Cinema" probability="100" duration="20" />
+        <widget name="Announcement" probability="2" duration="20" />
+    </period>
+    <default>
+        <widget name="Clock" />
+    </default>
+</scheduling>

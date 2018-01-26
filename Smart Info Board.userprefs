@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{411BAE3B-D214-0591-EECF-0635CB9251B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DisplaySTIB.cs">
+    <Files>
+      <File FileName="Config/scheduling.xml" Line="15" Column="14" />
+      <File FileName="Assets/Scripts/DisplayiCal.cs" Line="33" Column="117" />
+      <File FileName="Assets/Scripts/iCalAPI.cs" Line="59" Column="6" />
+      <File FileName="Assets/Scripts/iRailDisplay.cs" Line="47" Column="17" />
+      <File FileName="Assets/Scripts/SceneStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplaySTIB.cs" Line="65" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Smart_220Info_220Board PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
